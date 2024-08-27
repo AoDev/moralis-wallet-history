@@ -23,8 +23,9 @@ Currently only in Ethereum mainnet.
 - In the folder of the script
 - Write `bun run index.ts <wallet> <date>`
 
-Replace wallet and date by what you need.
-eg: `bun run index.ts 0xdC79FFB2042DcCAC85a4f79979F8ECdC9cECE984 2024-05-15`
+Replace wallet and date by what you need. eg:
+
+`bun run index.ts 0xdC79FFB2042DcCAC85a4f79979F8ECdC9cECE984 2024-05-15`
 
 ## Info
 
