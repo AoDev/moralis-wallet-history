@@ -29,4 +29,4 @@ Replace wallet and date by what you need. eg:
 
 ## Info
 
-The _date_ is translated to a block number. There are many blocks per day and the balances may have change during the day. Use a price date time if needed.
+The _date_ is translated to a block number. There are many blocks per day and the balances may have change during the day. Use a precise date time if needed.
